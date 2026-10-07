@@ -31,6 +31,7 @@
 | 仓库 | 是什么 |
 |---|---|
 | [`dsh-github-identity`](https://github.com/AIK4U/dsh-github-identity) | 在 DSH 文件沙箱里配通 GitHub 发布身份的完整配方——含六个拦路虎和它们的绕法 |
+| [`credential-hygiene`](https://github.com/AIK4U/credential-hygiene) | 怎么审计和轮换一份泄漏的凭据，而**不制造第二份泄漏** |
 
 ---
 
